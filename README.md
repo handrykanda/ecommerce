@@ -60,7 +60,7 @@ After that create a package.json file in the root and just copy and paste this j
 }
 ```
 
-Take note of the proxy at the bottom. I know you are worried "What's the base_url" but everything is set for you. Just click [here](react-online-shop-backend) to setup your backend with Firebase cloud functions. Don't worry the source code is available for you. You will be up and running in a couple of minutes!
+Take note of the proxy at the bottom. I know you are worried "What's the base_url" but everything is set for you. Just click [here](https://github.com/handrykanda/react-online-shop-backend) to setup your backend with Firebase cloud functions. Don't worry the source code is available for you. You will be up and running in a couple of minutes!
 
 - `npm install` to install all the required dependencies specified in the package file you just created.
 - `npm start` to start the local server (this project uses create-react-app)
@@ -79,19 +79,9 @@ But if you don't want to test paypal you can skip it.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ## **Making requests to the backend API**
 
-The source code for the backend server is [here](react-online-shop-backend).
+The source code for the backend server is [here](https://github.com/handrykanda/react-online-shop-backend).
 
 ## **Functionality overview**
 
