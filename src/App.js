@@ -25,9 +25,9 @@ import checkout from "./pages/checkout";
 import Navbar from "./components/layout/Navbar";
 import customTheme from "./util/theme";
 import AuthRoute from "./util/AuthRoute";
+import { BASE_URL } from "./config";
 
-axios.defaults.baseURL =
-  "https://us-central1-cellstore-a0a6c.cloudfunctions.net/api";
+axios.defaults.baseURL = BASE_URL;
 
 const theme = createMuiTheme(customTheme);
 

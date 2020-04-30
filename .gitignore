@@ -69,3 +69,4 @@ node_modules/
 #other files
 config.js
 /build
+package.json
