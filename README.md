@@ -85,7 +85,7 @@ The source code for the backend server is [here](https://github.com/handrykanda/
 
 ## **Functionality overview**
 
-Cellstore is an online shopping web app. It uses Firebase Cloud Functions as the backend. You can view a live demo over [here](https://cellstore-a0a6c.web.app/).
+Cellstore is an online shopping web app. It uses Firebase Cloud Functions as the backend.
 
 ### **General functionality:**
 
